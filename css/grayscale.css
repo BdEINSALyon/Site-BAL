@@ -93,7 +93,7 @@ a:focus {
 }
 
 .navbar-custom .nav li a {
-    font-size: 30px;
+    font-size: 25px;
     -webkit-transition: background .3s ease-in-out;
     -moz-transition: background .3s ease-in-out;
     transition: background .3s ease-in-out;

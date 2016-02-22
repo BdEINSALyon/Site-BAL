@@ -6,9 +6,9 @@
     #noeudpap {
         display: inline-block;
         vertical-align: middle;
-        height: 50px;
-        padding-left: 20px;
-        padding-right: 20px;
+        height: 40px;
+        padding-left: 30px;
+        padding-right: 15px;
         width: auto;
     }
 
@@ -70,6 +70,11 @@
 
 .btn {
     padding: 10px;
+}
+
+.logo-partenaire {
+  height: 75px;
+  width: auto;
 }
 
 footer {
