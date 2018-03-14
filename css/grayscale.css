@@ -9,7 +9,7 @@ body {
     height: 100%;
     font-family: 'Raleway',"Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #fff;
-    background-color: #3C121C;
+    background-color: #251a3f;
 }
 
 html {
@@ -66,7 +66,7 @@ a:focus {
     border-bottom: 1px solid rgba(255,255,255,.3);
     text-transform: uppercase;
     font-family: 'Megrim',"Helvetica Neue",Helvetica,Arial,sans-serif;
-    background-color: #3C121C;
+    background-color: #3e3072;
 }
 
 .navbar-custom .navbar-brand {
@@ -139,7 +139,7 @@ a:focus {
     }
 
     .navbar-custom.top-nav-collapse {
-        background: #3C121C;
+        background: #3e3072;
     }
 }
 
@@ -161,8 +161,8 @@ a:focus {
 .intro .intro-body {
     display: table-cell;
     vertical-align: middle;
-    background: rgba(60,18,28,0.5);
-    border-bottom: solid 1px #3C121C;
+    background: rgba(37, 26, 63,0.5);
+    border-bottom: solid 1px #251a3f;
 }
 
 .intro .intro-body .brand-heading {
