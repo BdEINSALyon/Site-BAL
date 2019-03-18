@@ -32,7 +32,7 @@
 }
 
 #about {
-    background-color: #251a3f;
+    background-color: #2d041f;
     width: 100%
 }
 
@@ -47,16 +47,16 @@
 }
 
 #billetterie {
-    padding: 100px;    
+    padding-top: 100px;    
     width: 100%;
-    background-color: #251a3f;
+    background-color: #2d041f;
 }
 
 #map {
     padding-top: 100px;
     width: 100%;
     height: 700px;
-    background-color: #251a3f;
+    background-color: #2d041f;
 }
 
 .map-overlay {
@@ -74,8 +74,9 @@
 }
 
 #contact {
+    margin-top : 100px;
     width: 100%;
-    background-color: #251a3f;
+    background-color: #2d041f;
 }
 
 .btn {
@@ -93,5 +94,5 @@
 }
 
 footer {
-    background-color: #251a3f;
+    background-color: #2d041f;
 }
