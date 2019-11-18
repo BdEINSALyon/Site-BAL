@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 559.3 539.3" style="enable-background:new 0 0 559.3 539.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}
+	.st2{fill:url(#SVGID_3_);}
+	.st3{fill:url(#SVGID_4_);}
+	.st4{fill:url(#SVGID_5_);}
+	.st5{fill:url(#SVGID_6_);}
+	.st6{fill:url(#SVGID_7_);}
+	.st7{fill:url(#SVGID_8_);}
+	.st8{fill:none;stroke:url(#Grand_Octogone_1_);stroke-width:4;stroke-miterlimit:10;}
+</style>
+<title>logo</title>
+<g id="Pétales_extérieures">
+	
+		<radialGradient id="SVGID_1_" cx="316.2" cy="-8.65" r="65.0305" gradientTransform="matrix(1 0 0 1 23.3 59.7)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#220000"/>
+		<stop  offset="0.92" style="stop-color:#710000"/>
+	</radialGradient>
+	<polygon class="st0" points="316.8,18.2 253.6,35.1 254.1,38.6 423.8,83.9 425.4,80.9 	"/>
+	
+		<radialGradient id="SVGID_2_" cx="446.15" cy="98.8" r="63.6652" gradientTransform="matrix(1 0 0 1 0 40)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#220000"/>
+		<stop  offset="0.92" style="stop-color:#710000"/>
+	</radialGradient>
+	<polygon class="st1" points="482.5,113.9 425.4,80.9 423.8,83.9 511.7,236.1 515.1,235.5 	"/>
+	
+		<radialGradient id="SVGID_3_" cx="475.8" cy="261.7" r="65.04" gradientTransform="matrix(1 0 0 1 0 40)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#220000"/>
+		<stop  offset="0.92" style="stop-color:#710000"/>
+	</radialGradient>
+	<polygon class="st2" points="532,298.7 515.1,235.5 511.7,236.1 466.2,405.7 469.3,407.3 	"/>
+	
+		<radialGradient id="SVGID_4_" cx="368.4" cy="391.6" r="63.64" gradientTransform="matrix(1 0 0 1 0 40)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#220000"/>
+		<stop  offset="0.92" style="stop-color:#710000"/>
+	</radialGradient>
+	<polygon class="st3" points="436.3,464.4 469.3,407.3 466.2,405.7 314.1,493.5 314.8,496.9 	"/>
+	
+		<radialGradient id="SVGID_5_" cx="205.1" cy="421.35" r="65.36" gradientTransform="matrix(1 0 0 1 0 40)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#220000"/>
+		<stop  offset="0.92" style="stop-color:#710000"/>
+	</radialGradient>
+	<polygon class="st4" points="251.4,513.9 314.8,496.9 314.1,493.5 144.4,448.2 142,450.7 	"/>
+	
+		<radialGradient id="SVGID_6_" cx="75.5" cy="313.65" r="63.5245" gradientTransform="matrix(1 0 0 1 0 40)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#220000"/>
+		<stop  offset="0.92" style="stop-color:#710000"/>
+	</radialGradient>
+	<polygon class="st5" points="85.7,418.2 142,450.7 144.4,448.2 56.5,296 53.2,296.7 	"/>
+	
+		<radialGradient id="SVGID_7_" cx="153.2" cy="21.05" r="63.66" gradientTransform="matrix(1 0 0 1 0 40)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#220000"/>
+		<stop  offset="0.92" style="stop-color:#710000"/>
+	</radialGradient>
+	<polygon class="st6" points="131.9,67.7 253.6,35.1 254.1,38.6 102,126.4 98.9,124.9 	"/>
+	
+		<radialGradient id="SVGID_8_" cx="45.8" cy="151.1" r="65.04" gradientTransform="matrix(1 0 0 1 0 40)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#220000"/>
+		<stop  offset="0.92" style="stop-color:#710000"/>
+	</radialGradient>
+	<polygon class="st7" points="36.2,233.4 53.2,296.7 56.5,296 102,126.4 98.9,124.9 	"/>
+</g>
+<linearGradient id="Grand_Octogone_1_" gradientUnits="userSpaceOnUse" x1="43.0555" y1="39.0538" x2="509.1055" y2="39.0538" gradientTransform="matrix(0.97 -0.26 -0.26 -0.97 27.4 375.46)">
+	<stop  offset="0" style="stop-color:#FFFBBB"/>
+	<stop  offset="0.2" style="stop-color:#E8BD5F"/>
+	<stop  offset="0.4" style="stop-color:#FBF1AC"/>
+	<stop  offset="0.6" style="stop-color:#EDC971"/>
+	<stop  offset="0.8" style="stop-color:#FCF4B1"/>
+	<stop  offset="1" style="stop-color:#F0D380"/>
+</linearGradient>
+<polygon id="Grand_Octogone" class="st8" points="316.8,18.2 131.9,67.7 36.2,233.4 85.7,418.2 251.4,513.9 436.3,464.4 532,298.7 
+	482.5,113.9 "/>
+</svg>
