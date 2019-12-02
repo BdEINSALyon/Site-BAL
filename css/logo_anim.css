@@ -1,0 +1,84 @@
+.logo {
+    position: relative;
+}
+
+.logo-background1 {
+    animation: rotateBackground1 .7s ease;
+    animation-fill-mode: forwards;
+    position: absolute;
+}
+
+.logo-background2 {
+    animation: rotateBackground2 .7s ease;
+    animation-fill-mode: forwards;
+    position: absolute;
+}
+
+.logo-container {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 60%;
+    height: 60%;
+    margin-left: 20%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.logo-container:hover>.logo-background1 {
+    animation-fill-mode: forwards;
+    animation: rotateBackground1Reverse .7s ease;
+}
+
+.logo-container:hover>.logo-background2 {
+    animation-fill-mode: forwards;
+    animation: rotateBackground2Reverse .7s ease;
+}
+
+@keyframes logoClickAnimation {
+    0% {
+        transform: scale(1)
+    }
+    70% {
+        transform: scale(1.1);
+    }
+    100% {
+        transform: rotatescale(1);
+    }
+}
+
+@keyframes rotateBackground1 {
+    0% {
+        transform: rotate(-15deg) scale(0.91);
+    }
+    100% {
+        transform: rotate(0deg) scale(1);
+    }
+}
+
+@keyframes rotateBackground2 {
+    0% {
+        transform: rotate(-30deg) scale(0.82);
+    }
+    100% {
+        transform: rotate(0deg) scale(1);
+    }
+}
+
+@keyframes rotateBackground1Reverse {
+    0% {
+        transform: rotate(0deg) scale(1);
+    }
+    100% {
+        transform: rotate(-15deg) scale(0.91);
+    }
+}
+
+@keyframes rotateBackground2Reverse {
+    0% {
+        transform: rotate(0deg) scale(1);
+    }
+    100% {
+        transform: rotate(-30deg) scale(0.82);
+    }
+}
